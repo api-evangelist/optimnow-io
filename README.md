@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-optimnow-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://optimnow.io/
+OptimNow provides smart cloud financial operations (FinOps) services, leveraging AI-driven insights to help businesses optimize cloud spend, improve sustainability, and accelerate cost savings. Their offerings include cloud assessment, rapid optimization, governance, and ongoing enablement, targeting enterprises seeking measurable cloud cost reductions and sustainable operations.
+
+**Areas:** Company · FinOps · CloudOptimization · AI · Sustainability
+
+## optimnow-io on APIs.io
+
+Everything profiled for optimnow-io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/optimnow-io/](https://apis.io/providers/optimnow-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [optimnow-io Llm Models API](https://apis.io/apis/optimnow-io/optimnow-io-llm-models-api/) — The Llm Models API from optimnow-io — 1 operation(s) for llm models.
+- [optimnow-io Pricing API](https://apis.io/apis/optimnow-io/optimnow-io-pricing-api/) — The Pricing API from optimnow-io — 1 operation(s) for pricing.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Optimnow Io Agentic Access](https://apis.io/agentic-access/optimnow-io/optimnow-io-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [ComputeInstance](https://apis.io/schemas/optimnow-io/optimnow-io-compute-instance/)
+- [LLMMeta](https://apis.io/schemas/optimnow-io/optimnow-io-llmmeta/)
+- [LLMModel](https://apis.io/schemas/optimnow-io/optimnow-io-llmmodel/)
+- [PricingMeta](https://apis.io/schemas/optimnow-io/optimnow-io-pricing-meta/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Optimnow Io Context](https://apis.io/jsonld/optimnow-io/optimnow-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [optimnow-io API Rules](https://apis.io/rules/optimnow-io/optimnow-io-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Optimnow Io Domain Security](https://apis.io/security/optimnow-io/optimnow-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://optimnow.io/)
+- [Documentation](https://www.optimnow.io/guide)
+- [Getting started](https://www.optimnow.io/guide)
+- [API reference](https://optimtoken.optimnow.io/)
+- [Support](https://www.optimnow.io/contact)
+- [Blog](https://www.optimnow.io/blog)
+- [Terms of service](https://www.optimnow.io/termsofuse)
+- [Privacy policy](https://www.optimnow.io/privacypolicy)
+- [GitHub](https://github.com/OptimNow)
+
+## API Evangelist rating
+
+**Kin Score 43.9** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 22.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/optimnow-io/](https://apis.io/providers/optimnow-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for optimnow-io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/optimnow-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
